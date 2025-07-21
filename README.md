@@ -22,7 +22,7 @@ Dies ist ein einseitiger Bericht, der mit **Power BI** erstellt wurde. Er visual
 
 ## 📎 Bericht ansehen
 
-👉[Hier klicken, um den PDF-Bericht herunterzuladen](./Отчет сотрудников.pdf)
+👉[Hier klicken, um den PDF-Bericht herunterzuladen](./Отчет_сотрудников.pdf)
 
 ## 📌 Ziel
 
